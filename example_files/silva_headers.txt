@@ -1,0 +1,11 @@
+>JQ838014.1.1478 Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Rugosimonospora sp. 260305
+>GY203941.1.1493 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;unidentified
+>GY324971.1.1500 Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium;unidentified
+>JQ765433.1.1505 Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus vallismortis
+>JQ765578.1.1444 Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia sp. BRHS/P92
+>JQ766308.1.1248 Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Cabbage stunt phytoplasma
+>JQ768370.1.1499 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas otitidis
+>JQ770191.1.1372 Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Vagococcus;Vagococcus sp. SVI4
+>JQ771130.1.1499 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter nectaris
+>JQ771139.1.1497 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter boissieri
+>JQ771208.1.1265 Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia sp. UFLA04-312
