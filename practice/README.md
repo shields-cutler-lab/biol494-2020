@@ -1,9 +1,18 @@
-# Building familiarity with your computer as a research tool
+# Lab 1. Building familiarity with your computer as a research tool
 
-These exercises will have you practice the text manipulation learned in Chapters 2 and 3
+Goals:
+0.5. Change the key repeat speed on your computer so you can move around in text more rapidly. Trust me.
+1. Set up shell/command line access on your machine, or use a lab machine.
+2. Learn how to navigate your computer via the command line by working through Chapter 4 of Practical Computing.
+3. Read up about [Conda](https://docs.conda.io/en/latest/). What does "open-source" refer to?
+4. Use [the install instructions to install Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html) on your machine (if not already installed). Check with Robin before running the installation.
+5. Work through chapters 1-3 of PCfB to learn the basics of text manipulation. If you don't already have a text editor installed, you'll need one. I prefer [BBedit](https://www.barebones.com/products/bbedit/) (free version; used to be TextWrangler); [SublimeText](https://www.sublimetext.com/) is also very popular.
+6. Complete the exercises below.
+
 
 ### REGEXP TASKS:
-You'll need to use a text editor (BBedit, Sublime Text, Notepad). The files referenced below are in the `example_files` directory.
+These exercises will have you practice the text manipulation learned in Chapters 2 and 3. Exercises 1-4 are from the PCfB authors.
+You'll need to use a text editor (BBedit, Sublime Text, Notepad). The files referenced below are in the `example_files` directory of this GitHub repo.
 
 ----
 #### Exercise 1
