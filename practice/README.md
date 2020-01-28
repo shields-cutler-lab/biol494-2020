@@ -12,7 +12,7 @@
 
 ### REGEXP TASKS:
 These exercises will have you practice the text manipulation learned in Chapters 2 and 3. Exercises 1-4 are from the PCfB authors.
-You'll need to use a text editor (BBedit, Sublime Text, Notepad). The files referenced below are in the `example_files` directory of this GitHub repo.
+You'll need to use a text editor (BBedit, Sublime Text, Notepad). The files referenced below are in the [example_files](../example_files/) directory of this GitHub repo.
 
 ----
 #### Exercise 1
