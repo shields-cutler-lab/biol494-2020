@@ -12,7 +12,9 @@
 
 ### REGEXP TASKS:
 These exercises will have you practice the text manipulation learned in Chapters 2 and 3. Exercises 1-4 are adapted from the PCfB authors.
+
 You'll need to use a text editor (BBedit is preferred). The files referenced below are in the [example_files](../example_files/) directory of this GitHub repo.
+
 The PCfB website has a handy Appendix PDF ([here](http://practicalcomputing.org/files/PCfB_Appendices.pdf)) that includes cheatsheets for many of the commands and regex terms.
 
 ----
@@ -51,7 +53,9 @@ HINT: Some last names are hyphenated or doubled. Try to do as much in one step a
 #### Exercise 4
 
 Using this GENBANK file:
+
 `http://practicalcomputing.org/files/genbank.txt`
+
 Use a regular expression (not Process Lines Containing..) to pull out the LOCUS lines. Then format with:
 ```
 Name\tseqlength\tyear\tMonth\tday
