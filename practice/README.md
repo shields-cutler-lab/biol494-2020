@@ -11,7 +11,7 @@
 
 
 ### REGEXP TASKS:
-These exercises will have you practice the text manipulation learned in Chapters 2 and 3. Exercises 1-4 are from the PCfB authors.
+These exercises will have you practice the text manipulation learned in Chapters 2 and 3. Exercises 1-4 are adapted from the PCfB authors.
 You'll need to use a text editor (BBedit is preferred). The files referenced below are in the [example_files](../example_files/) directory of this GitHub repo.
 The PCfB website has a handy Appendix PDF ([here](http://practicalcomputing.org/files/PCfB_Appendices.pdf)) that includes cheatsheets for many of the commands and regex terms.
 
@@ -40,13 +40,13 @@ HINT: Use two or more steps.
 
 #### Exercise 3
 
-Go to http://ims.ucsc.edu/facres/
+The file `ims_faculty.txt` has a text dump from a [faculty directory at UC Santa Cruz](https://ims.ucsc.edu/people/institute-of-marine-sciences-all-people.php).
 
-Copy faculty names and convert to tab delimited
+Extract faculty names and emails and convert to tab delimited as follows:
 ```
 Peter\t Raimondi\t raimondi@biology.ucsc.edu
 ```
-HINT: Some last names are hyphenated or doubled. The "ZZZZZ" trick might be handy here. TRY doing it as ONE step, or in multiple steps
+HINT: Some last names are hyphenated or doubled. Try to do as much in one step as possible; you may use two or three steps if needed.
 
 #### Exercise 4
 
