@@ -1,6 +1,6 @@
 # Lab 1. Building familiarity with your computer as a research tool
 
-Goals:
+#### Goals
 0.5. Change the key repeat speed on your computer so you can move around in text more rapidly. Trust me.
 1. Set up shell/command line access on your machine, or use a lab machine.
 2. Learn how to navigate your computer via the command line by working through Chapter 4 of Practical Computing.
